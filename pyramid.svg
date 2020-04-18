@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="bg" transform="matrix(0.724463,0,0,0.633905,85.8632,44.2789)">
+        <rect x="-118.52" y="-69.851" width="552.133" height="552.133" style="fill:rgb(60,204,216);"/>
+    </g>
+    <g id="all--3" serif:id="all *3" transform="matrix(3,0,0,3,-529.947,-423.25)">
+        <g id="pyramid">
+            <g id="drop-shadow" serif:id="drop shadow" transform="matrix(1,0,0,1,51.9615,-30)">
+                <path d="M207.846,240C211.493,235.418 216.954,231.901 225.167,230L255.477,257.5L207.846,240Z" style="fill:rgb(45,120,124);"/>
+            </g>
+            <g id="pyramid1" serif:id="pyramid" transform="matrix(1,0,0,1,103.923,-280)">
+                <path id="left" d="M155.885,435L138.564,480L155.885,490C158.74,476.802 158.596,448.462 155.885,435Z" style="fill:rgb(217,38,38);"/>
+                <path id="right" d="M173.205,480L155.885,490L155.885,435L173.205,480Z" style="fill:rgb(120,33,33);"/>
+            </g>
+        </g>
+        <g id="pyramid2" serif:id="pyramid">
+            <g id="drop-shadow1" serif:id="drop shadow" transform="matrix(1,0,0,1,34.641,-20)">
+                <path d="M207.846,240C211.493,235.418 216.954,231.901 225.167,230L246.817,252.5L207.846,240Z" style="fill:rgb(45,120,124);"/>
+            </g>
+            <g id="pyramid3" serif:id="pyramid" transform="matrix(1,0,0,1,86.6025,-270)">
+                <path id="left1" serif:id="left" d="M155.885,445L138.564,480L155.885,490C158.74,476.802 158.596,458.462 155.885,445Z" style="fill:white;"/>
+                <path id="right1" serif:id="right" d="M173.205,480L155.885,490L155.885,445L173.205,480Z" style="fill:rgb(128,128,128);"/>
+            </g>
+        </g>
+        <g id="pyramid4" serif:id="pyramid">
+            <g id="drop-shadow2" serif:id="drop shadow" transform="matrix(1,0,0,1,17.3205,-10)">
+                <path d="M207.846,240C211.493,235.418 216.954,231.901 225.167,230L238.157,247.5L207.846,240Z" style="fill:rgb(45,120,124);"/>
+            </g>
+            <g id="pyramid5" serif:id="pyramid" transform="matrix(1,0,0,1,69.282,-260)">
+                <path id="left2" serif:id="left" d="M155.885,455L138.564,480L155.885,490C158.74,476.802 158.596,468.462 155.885,455Z" style="fill:white;"/>
+                <path id="right2" serif:id="right" d="M173.205,480L155.885,490L155.885,455L173.205,480Z" style="fill:rgb(128,128,128);"/>
+            </g>
+        </g>
+        <g id="pyramid6" serif:id="pyramid">
+            <path id="drop-shadow3" serif:id="drop shadow" d="M207.846,240C211.493,235.418 216.954,231.901 225.167,230L229.497,242.5L207.846,240Z" style="fill:rgb(45,120,124);"/>
+            <g id="pyramid7" serif:id="pyramid" transform="matrix(1,0,0,1,51.9615,-250)">
+                <path id="left3" serif:id="left" d="M155.885,465L138.564,480L155.885,490C158.74,476.802 158.596,478.462 155.885,465Z" style="fill:white;"/>
+                <path id="right3" serif:id="right" d="M173.205,480L155.885,490L155.885,465L173.205,480Z" style="fill:rgb(128,128,128);"/>
+            </g>
+        </g>
+    </g>
+</svg>
